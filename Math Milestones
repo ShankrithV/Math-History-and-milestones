@@ -1,0 +1,53 @@
+<!-- Timeline entries -->
+
+<div class="entry">
+  <h3>3000 BCE</h3>
+  <p>Writing developed in ancient civilizations</p>
+  
+  <div class="hidden">
+    <p>Earliest writing emerged in Sumer, Egypt, and the Indus Valley to record information and transactions.</p>
+    
+    <img src="writing.jpg">
+    
+    <blockquote>"The invention of writing revolutionized human culture and knowledge transfer."</blockquote>
+  </div>
+</div>
+
+<div class="entry">  
+  <h3>600 BCE</h3>
+  <p>Pythagoras' mathematical theorems in ancient Greece</p>
+
+  <div class="hidden">
+    <p>Pythagoras established foundational mathematical contributions like the Pythagorean theorem.</p>
+    
+    <img src="pythagoras.jpg">
+    
+    <blockquote>"Do not say a little in many words but a great deal in a few." - Pythagoras</blockquote>
+  </div>
+</div>
+
+<div class="entry">
+  <h3>1687</h3>
+  <p>Newton publishes laws of motion and gravity</p>
+
+  <div class="hidden">
+    <p>Isaac Newton published his laws of motion and universal gravitation in the Principia Mathematica.</p>
+    
+    <img src="newton.jpg">
+    
+    <blockquote>"If I have seen further, it is by standing upon the shoulders of giants." - Newton</blockquote>
+  </div>  
+</div>
+
+<!-- More entries for discoveries mentioned earlier -->
+
+<div class="entry">
+  <h3>1931</h3>
+  <p>Gödel's incompleteness theorems</p>
+
+  <div class="hidden">
+    <!-- Details on Gödel's theorems -->
+  </div>
+</div>
+
+<!-- And so on... -->
